@@ -1,0 +1,97 @@
+#+TITLE: Google Kick Start
+#+AUTHOR: Dang Quang Vu
+#+EMAIL:  vugomars@gmail.com
+#+DESCRIPTION: Meta's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year's online round, win prizes and have a chance to make it to the global finals and win the grand prize.
+
+
+[[https://codingcompetitions.withgoogle.com/kickstart/archive/2022][Google Kick Start - 2022]]
+#+begin_quote
++ Rust solutions of Google Kick Start. Solution beginning with * means it will get TLE in the largest data set.
++ Total computation amount > 10^8, which is not friendly for rust to solve in 5-15 seconds.
++ Some problems marked as ~"hard"~ which that it was unsolved during the contest and may not be difficult.
+#+end_quote
+
+* Rounds                                                                :TOC:
+- [[#round-a][Round A]]
+- [[#round-b][Round B]]
+- [[#round-c][Round C]]
+- [[#round-d][Round D]]
+- [[#round-e][Round E]]
+- [[#round-f][Round F]]
+- [[#round-g][Round G]]
+- [[#round-h][Round H]]
+
+* Round A
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B1 |       |      |       |           |      |
+| #B2 |       |      |       |           |      |
+| #C1 |       |      |       |           |      |
+| #C2 |       |      |       |           |      |
+| #D  |       |      |       |           |      |
+
+
+* Round B
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B1 |       |      |       |           |      |
+| #B2 |       |      |       |           |      |
+| #C1 |       |      |       |           |      |
+| #C2 |       |      |       |           |      |
+| #D  |       |      |       |           |      |
+|     |       |      |       |           |      |
+
+* Round C
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B1 |       |      |       |           |      |
+| #B2 |       |      |       |           |      |
+| #C1 |       |      |       |           |      |
+| #C2 |       |      |       |           |      |
+| #D  |       |      |       |           |      |
+
+* Round D
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B1 |       |      |       |           |      |
+| #B2 |       |      |       |           |      |
+| #C1 |       |      |       |           |      |
+| #C2 |       |      |       |           |      |
+| #D  |       |      |       |           |      |
+
+
+* Round E
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B1 |       |      |       |           |      |
+| #B2 |       |      |       |           |      |
+| #C1 |       |      |       |           |      |
+| #C2 |       |      |       |           |      |
+| #D  |       |      |       |           |      |
+
+* Round F
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B1 |       |      |       |           |      |
+| #B2 |       |      |       |           |      |
+| #C1 |       |      |       |           |      |
+| #C2 |       |      |       |           |      |
+| #D  |       |      |       |           |      |
+
+* Round G
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B1 |       |      |       |           |      |
+| #B2 |       |      |       |           |      |
+| #C1 |       |      |       |           |      |
+| #C2 |       |      |       |           |      |
+| #D  |       |      |       |           |      |
+
+* Round H
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B1 |       |      |       |           |      |
+| #B2 |       |      |       |           |      |
+| #C1 |       |      |       |           |      |
+| #C2 |       |      |       |           |      |
+| #D  |       |      |       |           |      |
