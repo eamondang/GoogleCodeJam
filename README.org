@@ -1,97 +1,61 @@
-#+TITLE: Google Kick Start
+#+TITLE: Google Code Jam
 #+AUTHOR: Dang Quang Vu
 #+EMAIL:  vugomars@gmail.com
-#+DESCRIPTION: Meta's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year's online round, win prizes and have a chance to make it to the global finals and win the grand prize.
 
-
-[[https://codingcompetitions.withgoogle.com/kickstart/archive/2022][Google Kick Start - 2022]]
+[[https://codingcompetitions.withgoogle.com/codejam/archive/2022][Google Code Jam - 2022]]
 #+begin_quote
-+ Rust solutions of Google Kick Start. Solution beginning with * means it will get TLE in the largest data set.
-+ Total computation amount > 10^8, which is not friendly for rust to solve in 5-15 seconds.
-+ Some problems marked as ~"hard"~ which that it was unsolved during the contest and may not be difficult.
+Google's longest-running global coding competition, Code Jam calls on programmers around the world to solve challenging, algorithmic puzzles against the clock.
+I want to challenge myself and improve my programming thinking through this contest.
 #+end_quote
 
 * Rounds                                                                :TOC:
-- [[#round-a][Round A]]
-- [[#round-b][Round B]]
-- [[#round-c][Round C]]
-- [[#round-d][Round D]]
-- [[#round-e][Round E]]
-- [[#round-f][Round F]]
-- [[#round-g][Round G]]
-- [[#round-h][Round H]]
+- [[#round-1a][Round 1A]]
+- [[#round-1b][Round 1B]]
+- [[#round-1c][Round 1C]]
+- [[#round-2][Round 2]]
+- [[#round-3][Round 3]]
+- [[#final-round][Final Round]]
 
-* Round A
+* Round 1A
 | #   | Title | Time | Space | Difficult | Note |
 | #A  |       |      |       |           |      |
-| #B1 |       |      |       |           |      |
-| #B2 |       |      |       |           |      |
-| #C1 |       |      |       |           |      |
-| #C2 |       |      |       |           |      |
+| #B  |       |      |       |           |      |
+| #C  |       |      |       |           |      |
 | #D  |       |      |       |           |      |
 
 
-* Round B
+* Round 1B
 | #   | Title | Time | Space | Difficult | Note |
 | #A  |       |      |       |           |      |
-| #B1 |       |      |       |           |      |
-| #B2 |       |      |       |           |      |
-| #C1 |       |      |       |           |      |
-| #C2 |       |      |       |           |      |
-| #D  |       |      |       |           |      |
-|     |       |      |       |           |      |
-
-* Round C
-| #   | Title | Time | Space | Difficult | Note |
-| #A  |       |      |       |           |      |
-| #B1 |       |      |       |           |      |
-| #B2 |       |      |       |           |      |
-| #C1 |       |      |       |           |      |
-| #C2 |       |      |       |           |      |
+| #B  |       |      |       |           |      |
+| #C  |       |      |       |           |      |
 | #D  |       |      |       |           |      |
 
-* Round D
+* Round 1C
 | #   | Title | Time | Space | Difficult | Note |
 | #A  |       |      |       |           |      |
-| #B1 |       |      |       |           |      |
-| #B2 |       |      |       |           |      |
-| #C1 |       |      |       |           |      |
-| #C2 |       |      |       |           |      |
+| #B  |       |      |       |           |      |
+| #C  |       |      |       |           |      |
+| #D  |       |      |       |           |      |
+
+* Round 2
+| #   | Title | Time | Space | Difficult | Note |
+| #A  |       |      |       |           |      |
+| #B  |       |      |       |           |      |
+| #C  |       |      |       |           |      |
 | #D  |       |      |       |           |      |
 
 
-* Round E
+* Round 3
 | #   | Title | Time | Space | Difficult | Note |
 | #A  |       |      |       |           |      |
-| #B1 |       |      |       |           |      |
-| #B2 |       |      |       |           |      |
-| #C1 |       |      |       |           |      |
-| #C2 |       |      |       |           |      |
+| #B  |       |      |       |           |      |
+| #C  |       |      |       |           |      |
 | #D  |       |      |       |           |      |
 
-* Round F
+* Final Round
 | #   | Title | Time | Space | Difficult | Note |
 | #A  |       |      |       |           |      |
-| #B1 |       |      |       |           |      |
-| #B2 |       |      |       |           |      |
-| #C1 |       |      |       |           |      |
-| #C2 |       |      |       |           |      |
-| #D  |       |      |       |           |      |
-
-* Round G
-| #   | Title | Time | Space | Difficult | Note |
-| #A  |       |      |       |           |      |
-| #B1 |       |      |       |           |      |
-| #B2 |       |      |       |           |      |
-| #C1 |       |      |       |           |      |
-| #C2 |       |      |       |           |      |
-| #D  |       |      |       |           |      |
-
-* Round H
-| #   | Title | Time | Space | Difficult | Note |
-| #A  |       |      |       |           |      |
-| #B1 |       |      |       |           |      |
-| #B2 |       |      |       |           |      |
-| #C1 |       |      |       |           |      |
-| #C2 |       |      |       |           |      |
+| #B  |       |      |       |           |      |
+| #C  |       |      |       |           |      |
 | #D  |       |      |       |           |      |
